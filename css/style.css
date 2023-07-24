@@ -62,4 +62,10 @@ header {
   background: #f0e9c8;
   border: 0;
   border-radius: 12px;
+  font-size: 1.3em;
+}
+
+.moveBtn > button:hover {
+  background: #e9e0b6;
+  cursor: pointer;
 }
